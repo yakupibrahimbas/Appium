@@ -37,3 +37,5 @@ W
 'src/test/java/post_requests/Post02.java,a\8\a897ea2f912c2fef4ced51b652feb60853231216
 a
 1src/test/java/baseUrl/JsonPlaceHolderBaseUrl.java,6\9\69ccba78b3732ce9d6c1d2647b0d5f2bff6d699f
+U
+%src/test/java/get_requests/Get08.java,3\4\34fe42462d24987aed3e70c55681d15780c26f6a
