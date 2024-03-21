@@ -39,3 +39,9 @@ a
 1src/test/java/baseUrl/JsonPlaceHolderBaseUrl.java,6\9\69ccba78b3732ce9d6c1d2647b0d5f2bff6d699f
 U
 %src/test/java/get_requests/Get08.java,3\4\34fe42462d24987aed3e70c55681d15780c26f6a
+U
+%src/test/java/get_requests/Get09.java,3\5\35ab34dc1046f51f65a5ee33ace19de31973279f
+i
+9src/test/java/baseUrl/PracticeSoftwareTestingBaseUrl.java,5\e\5ee0c243271cc426e3426522f096110bafab48da
+p
+@src/test/java/utilities/AuthenticatePracticeSoftwareTesting.java,3\4\34e19519b064827cf93d3465aa9c9ca110df9cb9
