@@ -33,3 +33,7 @@ U
 %src/test/java/get_requests/Get07.java,3\9\393418fbe38694ffc03c4544370f169acdb55a4c
 [
 +src/test/java/baseUrl/HerokuAppBaseUrl.java,f\3\f35bbb58001f65f8fabe7a9747dfcd394df6085c
+W
+'src/test/java/post_requests/Post02.java,a\8\a897ea2f912c2fef4ced51b652feb60853231216
+a
+1src/test/java/baseUrl/JsonPlaceHolderBaseUrl.java,6\9\69ccba78b3732ce9d6c1d2647b0d5f2bff6d699f
